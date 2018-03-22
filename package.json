@@ -1,0 +1,22 @@
+{
+  "name": "db-interface",
+  "version": "0.0.0",
+  "description": "The database interface when JavaScript programs are running outside MLE",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vjovanov/db-interface"
+  },
+  "keywords": [
+    "MySQL",
+    "Graal",
+    "MLE",
+    "Polyglot",
+    "Stored Programs"
+  ],
+  "author": "Vojin Jovanovic",
+  "contributors": [
+    "Vojin Jovanovic <vojin.jovanovic@oracle.com>"
+  ],
+  "license": "MIT"
+}
